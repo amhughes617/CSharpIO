@@ -1,0 +1,8 @@
+c:\users\amhug\onedrive\documents\visual studio 2015\Projects\CSharpIO\CSharpIO\bin\Debug\CSharpIO.exe.config
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\bin\Debug\data.txt
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\bin\Debug\CSharpIO.exe
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\bin\Debug\CSharpIO.pdb
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\obj\Debug\CSharpIO.csprojResolveAssemblyReference.cache
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\obj\Debug\CSharpIO.exe
+C:\Users\amhug\OneDrive\Documents\Visual Studio 2015\Projects\CSharpIO\CSharpIO\obj\Debug\CSharpIO.pdb
+C:\Users\amhug\OneDrive\documents\visual studio 2015\Projects\CSharpIO\CSharpIO\bin\Debug\SoccerGameResults.csv
